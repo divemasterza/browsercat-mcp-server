@@ -71,7 +71,7 @@ The BrowserCat MCP server requires the following environment variable:
   "mcpServers": {
     "browsercat": {
       "command": "npx",
-      "args": ["-y", "@browsercatco/mcp-server"],
+      "args": ["-y", "@divemasterza/browsercap-mcp"],
       "env": {
         "BROWSERCAT_API_KEY": "your-api-key-here"
       }
